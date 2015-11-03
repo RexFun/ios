@@ -1,0 +1,16 @@
+PODS:
+  - MJRefresh (2.4.12)
+  - SwiftHTTP (1.0.2)
+  - XWSwiftRefresh (0.1.6)
+
+DEPENDENCIES:
+  - MJRefresh (~> 2.4.12)
+  - SwiftHTTP (~> 1.0.2)
+  - XWSwiftRefresh (~> 0.1.6)
+
+SPEC CHECKSUMS:
+  MJRefresh: ca8e9589895977df32d379d46e6b8a5450b3ff44
+  SwiftHTTP: 6d8ca031a9ce613a01e8f18b497503887b0b50c0
+  XWSwiftRefresh: 3667a6660498aa230380ccb8d89bfa2be075f3ce
+
+COCOAPODS: 0.39.0
