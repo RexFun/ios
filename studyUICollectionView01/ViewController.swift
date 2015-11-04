@@ -7,8 +7,8 @@
 //
 
 import UIKit
-import SwiftHTTP
 import XWSwiftRefresh
+import SwiftHTTP
 
 class ViewController: UIViewController, UICollectionViewDelegate, UICollectionViewDataSource {
     
